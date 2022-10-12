@@ -1,0 +1,23 @@
+p{
+    color:rgb(247, 248, 248);
+    font-style: italic;
+}
+h3{
+    color:maroon;
+    font-style: italic;
+}
+body{
+    background-color: lightblue;
+}
+#uni{
+    color:red;
+}
+.col{
+    color:rgb(6, 59, 94);
+}
+#pl{
+    color: rgb(66, 3, 56);
+}
+h2{
+    background-color: blueviolet;
+}
